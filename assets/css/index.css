@@ -1,3 +1,22 @@
-h1{
-    color: blue;
+*{
+    margin: 0;
+    padding: 0;
 }
+.division-landing{
+    display: grid;
+    background-color:#A6978F;
+}
+.navbar{
+    display: grid;
+    grid-template-rows: 50px 50px;
+    gap: 10px;
+}
+
+
+/* Color Theme Swatches in Hex */
+.Balzar-Arquitectos---UX-/-UI-1-hex { color: #F2EEEB; }
+.Balzar-Arquitectos---UX-/-UI-2-hex { color: #BF8F73; }
+.Balzar-Arquitectos---UX-/-UI-3-hex { color: #A6978F; }
+.Balzar-Arquitectos---UX-/-UI-4-hex { color: #8C5946; }
+.Balzar-Arquitectos---UX-/-UI-5-hex { color: #402B23; }
+
