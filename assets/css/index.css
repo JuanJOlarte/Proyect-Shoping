@@ -8,9 +8,10 @@
 }
 .navbar{
     display: grid;
-    grid-template-rows: 50px 50px;
-    gap: 10px;
+    grid-template-rows: 50px 70px;
+
 }
+
 
 
 /* Color Theme Swatches in Hex */
