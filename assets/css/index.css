@@ -4,7 +4,7 @@
 }
 .division-landing{
     display: grid;
-    grid-template-rows: 120px 200px 500px 400px ;
+    grid-template-rows: 120px 200px 500px 600px ;
     gap: 20px;
 }
 .navbar{

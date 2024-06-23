@@ -1,0 +1,27 @@
+.subscription-box{
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 600px;
+    align-items: center;
+    justify-items: center;
+}
+
+.boxItems{
+    display: grid;
+    background-color: blue;
+    height: 80%;
+    width: 70%;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 100%;
+}
+.items-box{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 100%;
+    justify-items: center;
+    align-items: center;
+}
+.items-box img{
+    height: 80%;
+    width: 90%;
+}
