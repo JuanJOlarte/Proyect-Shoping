@@ -4,14 +4,22 @@
 }
 .division-landing{
     display: grid;
-    background-color:#A6978F;
+    grid-template-rows: 120px 200px 500px 400px ;
+    gap: 20px;
 }
 .navbar{
     display: grid;
     grid-template-rows: 50px 70px;
-
+    background-color:#A6978F;
 }
-
+/* .fixed{
+    position: fixed;
+    top: 0;
+    width: 100%;
+} */
+.divisions{
+    background-color: rgb(51, 208, 179);
+}
 
 
 /* Color Theme Swatches in Hex */

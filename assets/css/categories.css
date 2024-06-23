@@ -1,0 +1,46 @@
+.category-select{
+    display: grid;
+    grid-template-columns: 18% 18% 18% 18%;
+    gap: 10px;
+    justify-content: space-around;
+    background-color: #B18A7B;
+    padding: 30px;
+    height: 450px;
+    
+}
+.categories{
+    background-color: #F2EEEB;
+    height: 400px;
+    border-radius: 80px;
+}
+.categories img{
+    border-radius: 80px 80px 80px 80px;
+    height: 100%;
+    width: 100%;
+    
+}
+.categories button{
+    margin-left: 70px;
+    margin-top: 10px;
+    width: 120px;
+    height: 30px;
+    background-color: #402B23;
+    color: #F2EEEB;
+    font-size: 20px;
+    border-radius: 30px;
+    border: none;
+}
+.categories button:hover{
+    background-color:#F2EEEB;
+    color: #402B23;
+    scale: 1.1;
+    transition: .3s;
+}
+
+/* Color Theme Swatches in Hex */
+.Balzar-Arquitectos---UX-/-UI-1-hex { color: #F2EEEB; }
+.Balzar-Arquitectos---UX-/-UI-2-hex { color: #BF8F73; }
+.Balzar-Arquitectos---UX-/-UI-3-hex { color: #A6978F; }
+.Balzar-Arquitectos---UX-/-UI-4-hex { color: #8C5946; }
+.Balzar-Arquitectos---UX-/-UI-5-hex { color: #402B23; }
+
