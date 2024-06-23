@@ -27,3 +27,31 @@
     height: 80%;
     width: 90%;
 }
+.subscription h1{
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.subscription button{
+    height: 40px;
+    width: 200px;
+    background-color:#8C5946;
+    color: #F2EEEB;
+    border: none;
+    border-radius: 80px;
+    font-size: 18px;
+}
+.subscription button:hover{
+    background-color: #402B23;
+    scale: 1.2;
+    transition: .2s;
+}
+
+
+
+/* Color Theme Swatches in Hex */
+.Balzar-Arquitectos---UX-/-UI-1-hex { color: #F2EEEB; }
+.Balzar-Arquitectos---UX-/-UI-2-hex { color: #BF8F73; }
+.Balzar-Arquitectos---UX-/-UI-3-hex { color: #A6978F; }
+.Balzar-Arquitectos---UX-/-UI-4-hex { color: #8C5946; }
+.Balzar-Arquitectos---UX-/-UI-5-hex { color: #402B23; }
