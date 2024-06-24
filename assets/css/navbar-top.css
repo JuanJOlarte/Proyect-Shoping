@@ -1,3 +1,8 @@
+.navbar{
+    display: grid;
+    grid-template-rows: 50px 70px;
+    background-color:#A6978F;
+}
 .division-navbar_top{
     display: grid;
     max-width: 100%;
