@@ -5,7 +5,25 @@
     background-color: #402B23;
 
 }
+.leftFooter{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #F2EEEB;
+}
+.rightFooter{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
+.iconsFooter img{
+    height: 40%;
+    width: 40px;
 
+}
 
 
 

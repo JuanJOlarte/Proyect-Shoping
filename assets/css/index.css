@@ -5,7 +5,7 @@
 .division-landing{
     display: grid;
     grid-template-rows: 120px 200px 500px 600px 60px ;
-    gap: 20px;
+    /* gap: 20px; */
 }
 .navbar{
     display: grid;
