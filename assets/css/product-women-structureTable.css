@@ -1,0 +1,30 @@
+.products-divisions{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 500px 500px;
+
+}
+.titleProducts h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #402B23;
+    padding: 10px;
+}
+.titleProducts h2{
+    font-family:'Times New Roman', Times, serif;
+    color: #402B23;
+    margin-left: 8%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+/* Color Theme Swatches in Hex */
+.Balzar-Arquitectos---UX-/-UI-1-hex { color: #F2EEEB; }
+.Balzar-Arquitectos---UX-/-UI-2-hex { color: #BF8F73; }
+.Balzar-Arquitectos---UX-/-UI-3-hex { color: #A6978F; }
+.Balzar-Arquitectos---UX-/-UI-4-hex { color: #8C5946; }
+.Balzar-Arquitectos---UX-/-UI-5-hex { color: #402B23; }
