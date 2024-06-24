@@ -4,7 +4,7 @@
 }
 .division-landing{
     display: grid;
-    grid-template-rows: 120px 200px 500px 600px 60px ;
+    grid-template-rows: 120px 600px 500px 600px 60px ;
     /* gap: 20px; */
 }
 
@@ -17,6 +17,11 @@
     background-color: rgb(51, 208, 179);
 }
 
+.imagentemp img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
 /* Color Theme Swatches in Hex */
 .Balzar-Arquitectos---UX-/-UI-1-hex { color: #F2EEEB; }

@@ -18,7 +18,15 @@
     color: #F2EEEB;
     scale: 1.1;
 }
-
+.buttons-navbar-botton a:hover{
+    color: #F2EEEB;
+}
+.buttons-navbar-botton a{
+    text-decoration: none;
+    color: #402B23;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 
 

@@ -36,15 +36,36 @@
     justify-items: center;
     align-items: center;
 }
+.contentStyle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
 .cardContent img{
     width: 250px;
     height: 320px;
     object-fit: cover;
 }
-.contentStyle h3{
-    font-size: 30px;
-    text-align: end;
+.contentStyle h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.contentStyle h3{
+    font-size: 20px;
+}
+
+.contentStyle button{
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    background-color: #402B23;
+    color: #F2EEEB;
+    border: none;
+    border-radius: 80px;
+}
+
 
 
 

@@ -26,7 +26,7 @@
     font-size: 20px;
 }
 
-.items-top_navbar h1{
+.items-top_navbar h1 a{
     text-align: center;
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
