@@ -51,7 +51,18 @@ border: 1px solid rgba(237, 227, 219, 0.68);
     color: #F2EEEB;
     transition: .2s;
 }
-input#name {
+input#user {
+    margin-bottom: 60px;
+    height: 40px;
+    width: 500px;
+    font-size: 26px;
+    text-align: center;
+    font-family: cursive;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 0px 20px 20px black;
+}
+input#password {
     margin-bottom: 60px;
     height: 40px;
     width: 500px;
