@@ -86,7 +86,11 @@ element.style {
     color: black;
     text-shadow: 2px 2px 1px #F2EEEB;
 }
-
+.division-landing  img{
+    position: absolute;
+    margin-left: 1200px;
+    margin-bottom: 550px;
+}
 
 
 
