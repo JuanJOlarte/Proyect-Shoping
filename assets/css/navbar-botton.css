@@ -11,6 +11,7 @@
     height: 40px;
     width: 140px;
     color: #402B23;
+    border-radius: 5px;
 }
 .buttons-navbar-botton button:hover{
     background-color: #8C5946;

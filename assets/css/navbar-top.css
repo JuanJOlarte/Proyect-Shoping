@@ -28,9 +28,14 @@
 
 .items-top_navbar h1 a{
     text-align: center;
-    font-size: 40px;
+    margin:10px;
+    font-size: 60px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #402B23;
+    text-shadow: -5px 5px 15px white;
+}
+.items-top_navbar h1 a:hover{
+    text-shadow: -5px 5px 15px black;
 }
 
 
