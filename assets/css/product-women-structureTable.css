@@ -65,6 +65,13 @@
     border: none;
     border-radius: 80px;
 }
+.contentStyle button:hover{
+    font-size: 18px;
+    background-color: #F2EEEB;
+    color: #402B23;
+    scale: 1.2;
+    transition: .2s;
+}
 
 
 
